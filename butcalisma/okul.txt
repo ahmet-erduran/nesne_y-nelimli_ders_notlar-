@@ -1,0 +1,5 @@
+bilgisayar,Ali
+bilgisayar,Veli
+elektrik,Ayşe
+makine,Mehmet
+bilgisayar,Zeynep

@@ -1,0 +1,2 @@
+Kalem,100
+Defter,200

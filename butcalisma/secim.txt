@@ -1,0 +1,4 @@
+A Partisi,150
+B Partisi,250
+C Partisi,80
+D Partisi,180

@@ -1,0 +1,4 @@
+Ankara,06,IcAnadolu
+Istanbul,34,Marmara
+Izmir,35,Ege
+Kirikkale,71,IcAnadolu
